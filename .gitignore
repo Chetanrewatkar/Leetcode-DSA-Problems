@@ -1,0 +1,22 @@
+# Compiled class files
+*.class
+
+# Java build directories and archives
+target/
+build/
+out/
+*.jar
+*.war
+*.ear
+
+# JVM crash logs
+hs_err_pid*
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS artifacts
+.DS_Store
+Thumbs.db
